@@ -22,3 +22,4 @@ Notes and usage details for worktree-pool-manager.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
